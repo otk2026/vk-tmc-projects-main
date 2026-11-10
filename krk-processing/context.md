@@ -55,7 +55,7 @@
 - Для крана с приводом — один рисунок из опросного листа, отдельную картинку привода не вставлять.
 
 Шаг 4. Финальное оформление — обязательно, последним действием перед выдачей:
-  import sys; sys.path.insert(0, "/mnt/project")  # в проекте Claude; при работе из репозитория vk-tmc-projects — путь krk-processing/originals
+  import sys; sys.path.insert(0, "/mnt/project")  # в проекте Claude; при работе из репозитория vk-tmc-projects-main — путь krk-processing/originals
   from krk_tools import finalize_krk
   finalize_krk("<путь к КРК>.xlsx")
 Скрипт удаляет пустые строки таблицы, перенумеровывает № п/п, подбирает высоту строк под текст и выставляет область печати. Высоту строк и удаление строк вручную не делай.
