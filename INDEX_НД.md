@@ -3,10 +3,10 @@
 > Файл собирается автоматически: `python3 tools/check_repo.py --index`. Вручную не править — пересобрать после добавления или удаления НД.
 > Для каждого документа — где лежит оригинал (PDF) и текстовая версия (.md). Нормы брать по оригиналу; текстовая версия — для поиска.
 > Один и тот же НД может лежать в нескольких проектах — это копии одного файла; открывать любую.
-Всего документов: **59**.
+Всего документов: **67**.
 
 
-## ГОСТ (43)
+## ГОСТ (44)
 
 | НД | Оригинал (PDF) | Текстовая версия (.md) |
 |---|---|---|
@@ -32,6 +32,7 @@
 | ГОСТ 10705-80 | `krk-cards/originals/ГОСТ_10705-80.pdf`<br>`pipes/originals/ГОСТ 10705-80.pdf` | `krk-cards/docs/06_ГОСТ-трубы/ГОСТ_10705-80.md`<br>`pipes/docs/03_ГОСТ_на_трубы/ГОСТ 10705-80.md` |
 | ГОСТ 10706-76 | `krk-cards/originals/ГОСТ_10706-76.pdf`<br>`pipes/originals/ГОСТ 10706-76.pdf` | `krk-cards/docs/06_ГОСТ-трубы/ГОСТ_10706-76.md`<br>`pipes/docs/03_ГОСТ_на_трубы/ГОСТ 10706-76.md` |
 | ГОСТ 14637-2024 | `fittings-flanges/originals/ГОСТ 14637-2024.pdf`<br>`pipes/originals/ГОСТ 14637-2024.pdf` | `fittings-flanges/docs/06_НД_стали_прокат_поковки/ГОСТ 14637-2024.md`<br>`pipes/docs/04_ГОСТ_на_сталь_и_прокат/ГОСТ 14637-2024.md` |
+| ГОСТ 14911-82 | `opory-truboprovodov-nakladki/originals/ГОСТ 14911-82.pdf` | `opory-truboprovodov-nakladki/docs/04_Тексты_НД/ГОСТ 14911-82.md` |
 | ГОСТ 16523-97 | `fittings-flanges/originals/ГОСТ 16523-97.pdf` | `fittings-flanges/docs/06_НД_стали_прокат_поковки/ГОСТ 16523-97.md` |
 | ГОСТ 17066-94 | `fittings-flanges/originals/ГОСТ 17066-94.pdf` | `fittings-flanges/docs/06_НД_стали_прокат_поковки/ГОСТ 17066-94.md` |
 | ГОСТ 17375-2001 | `fittings-flanges/originals/ГОСТ 17375-2001.pdf`<br>`krk-cards/originals/ГОСТ_17375-2001.pdf` | `fittings-flanges/docs/03_НД_детали_трубопроводов/ГОСТ 17375-2001.md`<br>`krk-cards/docs/05_ГОСТ-детали-трубопроводов/ГОСТ_17375-2001.md` |
@@ -54,7 +55,7 @@
 | ГОСТ 34347-2017 | `fittings-flanges/originals/ГОСТ 34347-2017.pdf` | `fittings-flanges/docs/04_НД_фланцы_и_заглушки/ГОСТ 34347-2017.md` |
 | ГОСТ 34636-2020 | `fittings-flanges/originals/ГОСТ 34636-2020.pdf`<br>`pipes/originals/ГОСТ 34636-2020.pdf` | `fittings-flanges/docs/05_НД_трубы_и_трубная_заготовка/ГОСТ 34636-2020.md`<br>`pipes/docs/04_ГОСТ_на_сталь_и_прокат/ГОСТ 34636-2020.md` |
 
-## ОСТ (5)
+## ОСТ (9)
 
 | НД | Оригинал (PDF) | Текстовая версия (.md) |
 |---|---|---|
@@ -63,6 +64,10 @@
 | ОСТ 34 10.753-97 | `details-tu-ost/originals/ОСТ 34 10.753-97.pdf` | `details-tu-ost/docs/06_Тексты_ОСТ/ОСТ 34 10.753-97.md` |
 | ОСТ 34 10.764-97 | `details-tu-ost/originals/ОСТ 34 10.764-97.pdf` | `details-tu-ost/docs/06_Тексты_ОСТ/ОСТ 34 10.764-97.md` |
 | ОСТ 34 10.766-97 | `details-tu-ost/originals/ОСТ 34 10.766-97.pdf` | `details-tu-ost/docs/06_Тексты_ОСТ/ОСТ 34 10.766-97.md` |
+| ОСТ 34-10-616-93 | `opory-truboprovodov-nakladki/originals/ОСТ 34-10-616-93.pdf` | `opory-truboprovodov-nakladki/docs/04_Тексты_НД/ОСТ 34-10-616-93.md` |
+| ОСТ 34-10-617-93 | `opory-truboprovodov-nakladki/originals/ОСТ 34-10-617-93.pdf` | `opory-truboprovodov-nakladki/docs/04_Тексты_НД/ОСТ 34-10-617-93.md` |
+| ОСТ 34-10-724-93 | `opory-truboprovodov-nakladki/originals/ОСТ 34-10-724-93.pdf` | `opory-truboprovodov-nakladki/docs/04_Тексты_НД/ОСТ 34-10-724-93.md` |
+| ОСТ 36-146-88 | `opory-truboprovodov-nakladki/originals/ОСТ 36-146-88.pdf` | `opory-truboprovodov-nakladki/docs/04_Тексты_НД/ОСТ 36-146-88.md` |
 
 ## ТУ (4)
 
@@ -87,10 +92,18 @@
 
 | НД | Оригинал (PDF) | Текстовая версия (.md) |
 |---|---|---|
-| ФНП 536-2020 | `tr-ts-applicability/originals/ФНП 536-2020.pdf` | `tr-ts-applicability/docs/03_ТР_ТС/ФНП 536-2020.md` |
+| ФНП 536-2020 | `opory-truboprovodov-nakladki/originals/ФНП 536-2020.pdf`<br>`tr-ts-applicability/originals/ФНП 536-2020.pdf` | `opory-truboprovodov-nakladki/docs/04_Тексты_НД/ФНП 536-2020.md`<br>`tr-ts-applicability/docs/03_ТР_ТС/ФНП 536-2020.md` |
 
 ## АТК (1)
 
 | НД | Оригинал (PDF) | Текстовая версия (.md) |
 |---|---|---|
 | АТК 24.200.02.90 | `fittings-flanges/originals/АТК 24.200.02.90.pdf` | `fittings-flanges/docs/04_НД_фланцы_и_заглушки/АТК 24.200.02.90.md` |
+
+## Прочие (3)
+
+| НД | Оригинал (PDF) | Текстовая версия (.md) |
+|---|---|---|
+| ПБ 03-273-99 | `opory-truboprovodov-nakladki/originals/ПБ 03-273-99.pdf` | `opory-truboprovodov-nakladki/docs/04_Тексты_НД/ПБ 03-273-99.md` |
+| РД 03-614-03 | `opory-truboprovodov-nakladki/originals/РД 03-614-03.pdf` | `opory-truboprovodov-nakladki/docs/04_Тексты_НД/РД 03-614-03.md` |
+| РД 03-615-03 | `opory-truboprovodov-nakladki/originals/РД 03-615-03.pdf` | `opory-truboprovodov-nakladki/docs/04_Тексты_НД/РД 03-615-03.md` |
