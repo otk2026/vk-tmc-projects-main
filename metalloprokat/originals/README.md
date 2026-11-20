@@ -1,4 +1,4 @@
-# originals — полный список файлов (17)
+# originals — полный список файлов (18)
 
 > Это полный перечень файлов папки. Если инструмент показывает папку не целиком или пустой — файл всё равно есть: открывай его по точному пути из этого списка.
 
@@ -25,6 +25,7 @@
 | `ГОСТ 2590-2006.pdf` | `metalloprokat/originals/ГОСТ 2590-2006.pdf` |
 | `ГОСТ 380-2005.pdf` | `metalloprokat/originals/ГОСТ 380-2005.pdf` |
 | `ГОСТ 4543-2016.pdf` | `metalloprokat/originals/ГОСТ 4543-2016.pdf` |
+| `ГОСТ 535-2005.pdf` | `metalloprokat/originals/ГОСТ 535-2005.pdf` |
 | `ГОСТ 5520-2017.pdf` | `metalloprokat/originals/ГОСТ 5520-2017.pdf` |
 | `ГОСТ 5632-2014.pdf` | `metalloprokat/originals/ГОСТ 5632-2014.pdf` |
 | `ГОСТ 5949-2018.pdf` | `metalloprokat/originals/ГОСТ 5949-2018.pdf` |
