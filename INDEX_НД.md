@@ -3,18 +3,21 @@
 > Файл собирается автоматически: `python3 tools/check_repo.py --index`. Вручную не править — пересобрать после добавления или удаления НД.
 > Для каждого документа — где лежит оригинал (PDF) и текстовая версия (.md). Нормы брать по оригиналу; текстовая версия — для поиска.
 > Один и тот же НД может лежать в нескольких проектах — это копии одного файла; открывать любую.
-Всего документов: **69**.
+Всего документов: **73**.
 
 
-## ГОСТ (46)
+## ГОСТ (50)
 
 | НД | Оригинал (PDF) | Текстовая версия (.md) |
 |---|---|---|
+| ГОСТ 103-2006 | `metalloprokat/originals/ГОСТ 103-2006.pdf` | `metalloprokat/docs/03_ГОСТ_на_сортамент/ГОСТ 103-2006.md` |
 | ГОСТ 380-2005 | `fittings-flanges/originals/ГОСТ 380-2005.pdf`<br>`metalloprokat/originals/ГОСТ 380-2005.pdf`<br>`pipes/originals/ГОСТ 380-2005.pdf` | `fittings-flanges/docs/06_НД_стали_прокат_поковки/ГОСТ 380-2005.md`<br>`metalloprokat/docs/04_ГОСТ_на_прокат_и_сталь/ГОСТ 380-2005.md`<br>`pipes/docs/04_ГОСТ_на_сталь_и_прокат/ГОСТ 380-2005.md` |
 | ГОСТ 535-2005 | `metalloprokat/originals/ГОСТ 535-2005.pdf` | `metalloprokat/docs/04_ГОСТ_на_прокат_и_сталь/ГОСТ 535-2005.md` |
 | ГОСТ 1050-2013 | `fittings-flanges/originals/ГОСТ 1050-2013.pdf`<br>`metalloprokat/originals/ГОСТ 1050-2013.pdf`<br>`pipes/originals/ГОСТ 1050-2013.pdf` | `fittings-flanges/docs/06_НД_стали_прокат_поковки/ГОСТ 1050-2013.md`<br>`metalloprokat/docs/04_ГОСТ_на_прокат_и_сталь/ГОСТ 1050-2013.md`<br>`pipes/docs/04_ГОСТ_на_сталь_и_прокат/ГОСТ 1050-2013.md` |
 | ГОСТ 1577-2022 | `fittings-flanges/originals/ГОСТ 1577-2022.pdf`<br>`metalloprokat/originals/ГОСТ 1577-2022.pdf` | `fittings-flanges/docs/06_НД_стали_прокат_поковки/ГОСТ 1577-2022.md`<br>`metalloprokat/docs/04_ГОСТ_на_прокат_и_сталь/ГОСТ 1577-2022.md` |
 | ГОСТ 2590-2006 | `fittings-flanges/originals/ГОСТ 2590-2006.pdf`<br>`metalloprokat/originals/ГОСТ 2590-2006.pdf` | `fittings-flanges/docs/06_НД_стали_прокат_поковки/ГОСТ 2590-2006.md`<br>`metalloprokat/docs/03_ГОСТ_на_сортамент/ГОСТ 2590-2006.md` |
+| ГОСТ 2591-2006 | `metalloprokat/originals/ГОСТ 2591-2006.pdf` | `metalloprokat/docs/03_ГОСТ_на_сортамент/ГОСТ 2591-2006.md` |
+| ГОСТ 2879-2006 | `metalloprokat/originals/ГОСТ 2879-2006.pdf` | `metalloprokat/docs/03_ГОСТ_на_сортамент/ГОСТ 2879-2006.md` |
 | ГОСТ 3262-75 | `pipes/originals/ГОСТ 3262-75.pdf` | `pipes/docs/03_ГОСТ_на_трубы/ГОСТ 3262-75.md` |
 | ГОСТ 3845-2017 | `fittings-flanges/originals/ГОСТ 3845-2017.pdf`<br>`pipes/originals/ГОСТ 3845-2017.pdf` | `fittings-flanges/docs/05_НД_трубы_и_трубная_заготовка/ГОСТ 3845-2017.md`<br>`pipes/docs/03_ГОСТ_на_трубы/ГОСТ 3845-2017.md` |
 | ГОСТ 4543-2016 | `fittings-flanges/originals/ГОСТ 4543-2016.pdf`<br>`metalloprokat/originals/ГОСТ 4543-2016.pdf`<br>`pipes/originals/ГОСТ 4543-2016.pdf` | `fittings-flanges/docs/06_НД_стали_прокат_поковки/ГОСТ 4543-2016.md`<br>`metalloprokat/docs/04_ГОСТ_на_прокат_и_сталь/ГОСТ 4543-2016.md`<br>`pipes/docs/04_ГОСТ_на_сталь_и_прокат/ГОСТ 4543-2016.md` |
@@ -22,6 +25,7 @@
 | ГОСТ 5632-2014 | `fittings-flanges/originals/ГОСТ 5632-2014.pdf`<br>`metalloprokat/originals/ГОСТ 5632-2014.pdf`<br>`pipes/originals/ГОСТ 5632-2014.pdf` | `fittings-flanges/docs/06_НД_стали_прокат_поковки/ГОСТ 5632-2014.md`<br>`metalloprokat/docs/04_ГОСТ_на_прокат_и_сталь/ГОСТ 5632-2014.md`<br>`pipes/docs/04_ГОСТ_на_сталь_и_прокат/ГОСТ 5632-2014.md` |
 | ГОСТ 5949-2018 | `fittings-flanges/originals/ГОСТ 5949-2018.pdf`<br>`metalloprokat/originals/ГОСТ 5949-2018.pdf` | `fittings-flanges/docs/06_НД_стали_прокат_поковки/ГОСТ 5949-2018.md`<br>`metalloprokat/docs/04_ГОСТ_на_прокат_и_сталь/ГОСТ 5949-2018.md` |
 | ГОСТ 6533-78 | `fittings-flanges/originals/ГОСТ 6533-78.pdf` | `fittings-flanges/docs/04_НД_фланцы_и_заглушки/ГОСТ 6533-78.md` |
+| ГОСТ 7566-2018 | `metalloprokat/originals/ГОСТ 7566-2018.pdf` | `metalloprokat/docs/06_ГОСТ_приёмка_и_документ_о_качестве/ГОСТ 7566-2018.md` |
 | ГОСТ 8479-70 | `fittings-flanges/originals/ГОСТ 8479-70.pdf` | `fittings-flanges/docs/06_НД_стали_прокат_поковки/ГОСТ 8479-70.md` |
 | ГОСТ 8731-2025 | `fittings-flanges/originals/ГОСТ 8731-2025.pdf`<br>`pipes/originals/ГОСТ 8731-2025.pdf` | `fittings-flanges/docs/05_НД_трубы_и_трубная_заготовка/ГОСТ 8731-2025.md`<br>`pipes/docs/03_ГОСТ_на_трубы/ГОСТ 8731-2025.md` |
 | ГОСТ 8732-2025 | `fittings-flanges/originals/ГОСТ 8732-2025.pdf`<br>`pipes/originals/ГОСТ 8732-2025.pdf` | `fittings-flanges/docs/05_НД_трубы_и_трубная_заготовка/ГОСТ 8732-2025.md`<br>`pipes/docs/03_ГОСТ_на_трубы/ГОСТ 8732-2025.md` |
